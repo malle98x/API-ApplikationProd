@@ -1,0 +1,5 @@
+# Ignorera Visual Studio-specifika filer
+.vs/
+*.user
+*.suo
+*.db

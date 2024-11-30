@@ -1,0 +1,15 @@
+C:\Users\Malek Mustafa\source\repos\API-applikationProd\bin\Debug\net8.0\API-applikationProd.exe
+C:\Users\Malek Mustafa\source\repos\API-applikationProd\bin\Debug\net8.0\API-applikationProd.deps.json
+C:\Users\Malek Mustafa\source\repos\API-applikationProd\bin\Debug\net8.0\API-applikationProd.runtimeconfig.json
+C:\Users\Malek Mustafa\source\repos\API-applikationProd\bin\Debug\net8.0\API-applikationProd.dll
+C:\Users\Malek Mustafa\source\repos\API-applikationProd\bin\Debug\net8.0\API-applikationProd.pdb
+C:\Users\Malek Mustafa\source\repos\API-applikationProd\obj\Debug\net8.0\API-applikationProd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malek Mustafa\source\repos\API-applikationProd\obj\Debug\net8.0\API-applikationProd.AssemblyInfoInputs.cache
+C:\Users\Malek Mustafa\source\repos\API-applikationProd\obj\Debug\net8.0\API-applikationProd.AssemblyInfo.cs
+C:\Users\Malek Mustafa\source\repos\API-applikationProd\obj\Debug\net8.0\API-applikationProd.csproj.CoreCompileInputs.cache
+C:\Users\Malek Mustafa\source\repos\API-applikationProd\obj\Debug\net8.0\API-applikationProd.sourcelink.json
+C:\Users\Malek Mustafa\source\repos\API-applikationProd\obj\Debug\net8.0\API-applikationProd.dll
+C:\Users\Malek Mustafa\source\repos\API-applikationProd\obj\Debug\net8.0\refint\API-applikationProd.dll
+C:\Users\Malek Mustafa\source\repos\API-applikationProd\obj\Debug\net8.0\API-applikationProd.pdb
+C:\Users\Malek Mustafa\source\repos\API-applikationProd\obj\Debug\net8.0\API-applikationProd.genruntimeconfig.cache
+C:\Users\Malek Mustafa\source\repos\API-applikationProd\obj\Debug\net8.0\ref\API-applikationProd.dll
